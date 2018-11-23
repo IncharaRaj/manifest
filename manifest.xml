@@ -5,9 +5,7 @@
   
    <default revision="master"
                remote="IncharaRaj"
-               sync-j="4" />
-  
-<project path="WORK_SPACE" name="repo2" remote=“IncharaRaj"/>                                                                         
+               sync-j="4" />                                                                       
 
 </manifest>
 
