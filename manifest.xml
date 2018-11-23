@@ -10,8 +10,8 @@
                remote="IncharaRaj"
                sync-j="4" />     
   
-<project path="/home/WORK_SPACE" name="repo2" remote=“IncharaRaj"/>
-<project path="/home/WORK_SPACE" name="repo3" remote=“IncharaRaj"/>  
+<project path="working" name="IncharaRaj/repo2"/>
+<project path="working" name="IncharaRaj/repo3"/>  
 
 </manifest>
 
