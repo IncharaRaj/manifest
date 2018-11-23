@@ -6,7 +6,7 @@
   <remote  name="IncharaRaj"
        fetch="https://github.com/IncharaRaj/repo3/"/>
   
-   <default revision="master"
+   <default revision="IncharaRaj/repo1/master/"
                remote="IncharaRaj"
                sync-j="4" />
   
