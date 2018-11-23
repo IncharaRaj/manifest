@@ -2,8 +2,7 @@
 
   <remote  name="IncharaRaj"
        fetch="https://github.com/IncharaRaj/repo2.git/"/>
-  <remote  name="IncharaRaj"
-       fetch="https://github.com/IncharaRaj/repo3.git/"/>
+  
   
   
    <default revision="master"
