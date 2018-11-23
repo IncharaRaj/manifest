@@ -1,0 +1,15 @@
+<manifest>
+
+  <remote  name="origin"
+       fetch="https://gitlabee.dt.renault.com/swlabs/"/>
+  <default
+           revision="integ/renesas/android/master/p"
+           remote="origin"
+           sync-c="true"
+           sync-j="4" />
+<include name="include/renesas.xml"/>
+<include name="include/renault.xml"/>
+
+</manifest>
+
+<project name="cc/ivi/android/platform/integ/ownership/data-collection-onboard/lemonad.git" path="vendor/renault/lemonad" groups="renault,data-collection-onboard"/>
