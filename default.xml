@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="IncharaRaj"
+  <remote  name="origin"
        fetch="https://github.com/IncharaRaj/repo2/"/>
-  <remote  name="IncharaRaj"
+  <remote  name="origin"
        fetch="https://github.com/IncharaRaj/repo3/"/>
   
-   <default revision="IncharaRaj/repo1/master/"
-               remote="IncharaRaj"
+   <default revision="/repo1/master/"
+               remote="origin"
+               sync-c="true"
                sync-j="4" />
   
 <project path="/home/WORK_SPACE" name="repo2" remote=“IncharaRaj"/>
