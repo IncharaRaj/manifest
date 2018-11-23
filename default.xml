@@ -3,7 +3,6 @@
 
   <remote  name="IncharaRaj"
        fetch="https://github.com/IncharaRaj/repo2/"/>
-  <remote  name="IncharaRaj"
        fetch="https://github.com/IncharaRaj/repo3/"/>
   
    <default revision="master/"
