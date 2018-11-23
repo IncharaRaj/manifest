@@ -1,11 +1,15 @@
 <manifest>
 
-  <remote  name="inchararaj"
+  <remote  name="IncharaRaj"
        fetch="https://github.com/IncharaRaj/repo2.git/"/>
-  <remote  name="inchararaj"
+  <remote  name="IncharaRaj"
        fetch="https://github.com/IncharaRaj/repo3.git/"/>
   
-<project path="/home/WORK_SPACE" name="repo2" remote=“inchararaj"/>
-<project path="/home/WORK_SPACE" name="repo3" remote=“inchararaj"/>                                                               
+   <default revision="master"
+               remote="IncharaRaj"
+               sync-j="4" />
+  
+<project path="/home/WORK_SPACE" name="repo2" remote=“IncharaRaj"/>
+<project path="/home/WORK_SPACE" name="repo3" remote=“IncharaRaj"/>                                                               
 
 </manifest>
