@@ -1,11 +1,11 @@
 <manifest>
 
   <remote  name="inchararaj"
-       fetch="https://github.com/IncharaRaj/repo2.git"/>
+       fetch="https://github.com/IncharaRaj/repo2.git/"/>
   <remote  name="inchararaj"
-       fetch="https://github.com/IncharaRaj/repo3.git"/>
+       fetch="https://github.com/IncharaRaj/repo3.git/"/>
   
 <project path="/home/WORK_SPACE" name="repo2" remote=“inchararaj"/>
-<project path="/home/WORK_SPACE/car" name="repo3" remote=“inchararaj"/>                                                               
+<project path="/home/WORK_SPACE" name="repo3" remote=“inchararaj"/>                                                               
 
 </manifest>
