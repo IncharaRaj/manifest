@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="origin"
+  <remote  name="IncharaRaj"
        fetch="https://github.com/IncharaRaj/repo2/"/>
-  <remote  name="origin"
+  <remote  name="IncharaRaj"
        fetch="https://github.com/IncharaRaj/repo3/"/>
   
-   <default revision="/repo1/master/"
-               remote="origin"
+   <default revision="master/"
+               remote="IncharaRaj"
                sync-c="true"
                sync-j="4" />
   
