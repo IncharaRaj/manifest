@@ -1,10 +1,8 @@
 <manifest>
 
   <remote  name="IncharaRaj"
-       fetch="https://github.com/IncharaRaj/repo2.git/"/>
-       fetch="https://github.com/IncharaRaj/repo3.git/"/>
-  
-  
+       fetch="https://github.com/IncharaRaj/"/>
+    
   
    <default revision="master"
                remote="IncharaRaj"
