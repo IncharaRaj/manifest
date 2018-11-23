@@ -7,7 +7,7 @@
                remote="IncharaRaj"
                sync-j="4" />
   
-<project path="/home/bgh48296/WORK_SPACE" name="repo2" remote=“IncharaRaj"/>                                                                         
+<project path="WORK_SPACE" name="repo2" remote=“IncharaRaj"/>                                                                         
 
 </manifest>
 
