@@ -8,8 +8,8 @@
                remote="IncharaRaj"
                sync-j="4" />     
   
-<project path="repo2_l" name="repo2" revision = "branch1r1"/>
-<project path="repo3_l" name="repo3" revision = "inchara"/>  
+<project path="repo/branch1" name="repo2" revision = "branch1r1"/>
+<project path="repo3/newbranch" name="repo3" revision = "inchara"/>  
 
 </manifest>
 
