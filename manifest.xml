@@ -4,8 +4,8 @@
        fetch="https://github.com/IncharaRaj/"/>
     
   
-   <default revision="master"
-               remote="IncharaRaj"
+   <default
+              remote="IncharaRaj"
                sync-j="4" />     
   
 <project path="repo/branch1" name="repo2" revision = "branch1r1"/>
